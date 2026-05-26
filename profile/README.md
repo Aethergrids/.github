@@ -5,7 +5,7 @@
       <picture>
         <!-- <source media="(prefers-color-scheme: dark)" srcset="https://vite.dev/vite-light.svg"> -->
         <!-- <source media="(prefers-color-scheme: light)" srcset="https://vite.dev/vite-dark.svg"> -->
-        <img alt="aethergrids logo" src="https://github.com/Aethergrids/.github/blob/main/profile/aethergrids_logo_horizontal.svg" height="60">
+        <img alt="aethergrids logo" src="https://github.com/Aethergrids/.github/blob/main/profile/aethergrids_logo_horizontal.svg">
       </picture>
     </a>
   <br>
