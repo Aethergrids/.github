@@ -1,14 +1,12 @@
 <div align="center">
   <br>
-  <br>
     <a href="https://github.com/Aethergrids" target="_blank" rel="noopener noreferrer">
       <picture>
         <!-- <source media="(prefers-color-scheme: dark)" srcset="https://vite.dev/vite-light.svg"> -->
         <!-- <source media="(prefers-color-scheme: light)" srcset="https://vite.dev/vite-dark.svg"> -->
-        <img alt="aethergrids logo" src="https://github.com/Aethergrids/.github/blob/main/profile/aethergrids_logo_horizontal.svg" height="600">
+        <img alt="aethergrids logo" src="https://github.com/Aethergrids/.github/blob/main/profile/aethergrids_logo_horizontal.svg" height="300">
       </picture>
     </a>
-  <br>
   <br>
   
   # Aethergrids-Labs
