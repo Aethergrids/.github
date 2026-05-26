@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="900" viewBox="0 0 1800 900" fill="none" role="img" aria-label="Aethergrids horizontal logo">
+  <title>Aethergrids horizontal logo</title>
+  <desc>Transparent-background horizontal logo for Aethergrids with icon left and wordmark right.</desc>
+  <defs>
+    <linearGradient id="innerGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#31D9E9"/>
+      <stop offset="100%" stop-color="#2A8BEF"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(40,40) scale(0.72)">
+    <!-- star -->
+    <path d="M512 68 L540 170 L643 198 L540 226 L512 328 L484 226 L381 198 L484 170 Z" fill="#1BD8E6"/>
+    <circle cx="512" cy="368" r="24" fill="#1BD8E6"/>
+    <!-- outer A -->
+    <path d="M126 954 L407 378 C432 328 466 282 512 282 C558 282 592 328 617 378 L898 954 L771 954 L512 466 L253 954 Z" fill="#071C63"/>
+    <!-- inner triangle -->
+    <path d="M512 496 L657 767 L367 767 Z" fill="url(#innerGrad)"/>
+    <!-- simplified grid -->
+    <g stroke="#A9DDF8" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" fill="none">
+      <line x1="512" y1="678" x2="512" y2="948"/>
+      <line x1="404" y1="752" x2="404" y2="861"/>
+      <line x1="620" y1="752" x2="620" y2="861"/>
+      <line x1="512" y1="678" x2="404" y2="752"/>
+      <line x1="512" y1="678" x2="620" y2="752"/>
+      <line x1="404" y1="752" x2="296" y2="861"/>
+      <line x1="620" y1="752" x2="728" y2="861"/>
+      <line x1="296" y1="861" x2="512" y2="948"/>
+      <line x1="728" y1="861" x2="512" y2="948"/>
+      <line x1="296" y1="861" x2="512" y2="787"/>
+      <line x1="728" y1="861" x2="512" y2="787"/>
+      <line x1="404" y1="752" x2="512" y2="787"/>
+      <line x1="620" y1="752" x2="512" y2="787"/>
+    </g>
+    <g>
+      <circle cx="512" cy="678" r="29" fill="#1BD8E6"/>
+      <circle cx="404" cy="752" r="29" fill="#1BD8E6"/>
+      <circle cx="620" cy="752" r="29" fill="#1BD8E6"/>
+      <circle cx="296" cy="861" r="28" fill="#2A7BF6"/>
+      <circle cx="728" cy="861" r="28" fill="#2A7BF6"/>
+      <circle cx="512" cy="787" r="28" fill="#0B256F"/>
+      <circle cx="512" cy="948" r="28" fill="#1BD8E6"/>
+    </g>
+  </g>
+  <text x="1110" y="535" text-anchor="middle" dominant-baseline="middle" fill="#071C63" font-size="140" font-weight="760" letter-spacing="-4" font-family="Inter, Avenir Next, Helvetica Neue, Arial, sans-serif">Aethergrids</text>
+</svg>
